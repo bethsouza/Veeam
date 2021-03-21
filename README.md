@@ -25,13 +25,13 @@ Rafael Caldas (https://digitalmonkey.tech/author/rafaelcaldas/) </br>
 Este é um portal onde a comunidade pode compartilhar experiências, aumentar sua rede de contatos e ser reconhecido por suas contribuições para a comunidade.
 Alguns recursos que você encontra neste portal:
 
-Grupo de usuários - Compartilhe exepriências e aumente sua rede de contatos participando dos grupos de usuários (https://community.veeam.com/groups </br>
-Recursos da comunidade - Contribua com a comunidade através do seu conhecimento (https://community.veeam.com/blogs-scripts-and-podcasts-57)</br>
-Universidade Veeam: Treinamentos sob demanda gratuitos (https://www.veeam.com/free-on-demand-trainings.html)</br>
-Veeam Legends: Ganhe reconhecimento através de suas contribuições nas comunidades (https://community.veeam.com/general-information-58/veeam-legends-program-overview-71)</br>
+Grupo de usuários - Compartilhe exepriências e aumente sua rede de contatos participando dos grupos de usuários (https://community.veeam.com/groups </br></br>
+Recursos da comunidade - Contribua com a comunidade através do seu conhecimento (https://bityli.com/5w5WK)</br></br>
+Universidade Veeam: Treinamentos sob demanda gratuitos (https://bityli.com/VEuew)</br></br>
+Veeam Legends: Ganhe reconhecimento através de suas contribuições nas comunidades (https://bityli.com/xMEme)</br></br>
 
-Precisa de suporte técnico, os fóruns podem ajudar (https://forums.veeam.com/)</br>
-Fonte de referência: (https://community.veeam.com/general-information-58/welcome-to-the-veeam-community-resource-hub-67) </br>
+Precisa de suporte técnico, os fóruns podem ajudar (https://forums.veeam.com/)</br></br>
+Fonte de referência: (https://community.veeam.com/general-information-58/welcome-to-the-veeam-community-resource-hub-67) </br></br>
 
 <b> ** Veeam Vanguard ** </br>
 
