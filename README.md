@@ -1,5 +1,3 @@
-# Veeam
-
 
 <p align="center">
    <img src="https://github.com/bethsouza/Veeam/blob/main/veeam.PNG">
@@ -7,7 +5,7 @@
 
 <p align="center"><b>  Site da Veeam em português https://www.veeam.com/br/  </br>
 
-<b> Grupo de discussão no Telegram  t.me/VeeamBR </br>
+**Grupo de discussão no Telegram**  t.me/VeeamBR </br>
 
 Blogs de especialistas com vários tutoriais e dicas essenciais com as melhores práticas para backup e recuperação de dados:
 
