@@ -7,13 +7,13 @@
 
 **Grupo de discussão no Telegram** (https://t.me/VeeamBR) </br>
 
-**Canal no Youtube** (**Grupo de discussão no Telegram** (https://t.me/VeeamBR) </br>) </br>
+**Canal no Youtube** (**Grupo de discussão no Telegram** (https://t.me/VeeamBR) </br> </br>
 
-## Blogs de especialistas </br>
+## Blogs de especialistas</br>
 
 Vários tutoriais e dicas essenciais sobre melhores práticas para backup e recuperação de dados
 
-### No Brasil </br>
+### No Brasil</br>
 
 Paulo Sant'anna (https://paulosantanna.com/) </br>
 Joaquim Santos (https://explainit.com.br/) </br>
