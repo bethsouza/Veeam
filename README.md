@@ -17,7 +17,6 @@ Paulo Sant'anna (https://paulosantanna.com/) </br>
 Joaquim Santos (https://explainit.com.br/) </br>
 Mateus Wolff (https://penseemti.com.br/) </br>
 Wesley Martins (https://itproland.com.br/) </br>
-Rafael Caldas (https://digitalmonkey.tech/author/rafaelcaldas/) </br>
 
 ### Veeam Community Hub </br>
 
