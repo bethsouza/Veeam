@@ -7,9 +7,6 @@
 
 <p align="center"><b>  Site da Veeam em português https://www.veeam.com/br/  </br>
 
-Recursos pra você estudar: (https://www.veeam.com/free-on-demand-trainings.html) </br>
-Basta se registrar para ter acesso ao conteúdo e testar seus conhecimentos</br>
-
 <b> ** Grupo de discussão no Telegram ** t.me/VeeamBR </br>
 
 Blogs de especialistas com vários tutoriais e dicas essenciais com as melhores práticas para backup e recuperação de dados:
@@ -22,8 +19,16 @@ Mateus Wolff (https://penseemti.com.br/) </br>
 Wesley Martins (https://itproland.com.br/) </br>
 Rafael Caldas (https://digitalmonkey.tech/author/rafaelcaldas/) </br>
 
-<b> ** Fórum da Comunidade ** </br>
-https://forums.veeam.com/?ad=top-sub-menu
+
+<b> ** Veeam Community Hub ** </br>
+
+Este é um portal onde a comunidade pode compartilhar experiências, aumentar sua rede de contatos e ser reconhecido por suas contribuições para a comunidade.
+Alguns recursos que você encontra neste portal:
+
+Grupo de usuários:(https://community.veeam.com/groups </br>
+Recursos da comunidade: (https://community.veeam.com/blogs-scripts-and-podcasts-57)</br>
+Universidade Veeam: (https://www.veeam.com/free-on-demand-trainings.html)</br>
+Veeam Legends: (https://community.veeam.com/general-information-58/veeam-legends-program-overview-71)</br>
 
 <b> ** Veeam Vanguard ** </br>
 
@@ -51,4 +56,4 @@ Paulo Sant'anna (https://www.linkedin.com/in/paulosantanna/) </br>
 O Veeam Legends 
 
 
-<b> ** Veeam Legends ** </br>
+
