@@ -5,7 +5,7 @@ Repositório com referência sobre soluções da Veeam
 <p align="center"><b>A List of Veeam Resources </b>
    
 <p align="center">
-   <img src="https://github.com/bethsouza/vROps/blob/master/vropss.JPG">
+   <img src="https://github.com/bethsouza/veeam/blob/master/veeam_green_logo.JPG">
 </p>
 
 **Before begin...**<br/>
