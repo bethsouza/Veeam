@@ -3,9 +3,11 @@
    <img src="https://github.com/bethsouza/Veeam/blob/main/veeam.PNG">
 </p>
 
-<p align="center"><b>  Site da Veeam em português https://www.veeam.com/br/  </br>
+<p align="center"><b>  Site da Veeam em português https://www.veeam.com/br/ </br>
 
 **Grupo de discussão no Telegram** (https://t.me/VeeamBR) </br>
+
+**Canal no Youtube** (**Grupo de discussão no Telegram** (https://t.me/VeeamBR) </br>) </br>
 
 ## Blogs de especialistas </br>
 
