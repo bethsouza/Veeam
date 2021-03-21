@@ -27,6 +27,12 @@ https://forums.veeam.com/?ad=top-sub-menu
 
 <b> ** Veeam Vanguard ** </br>
 
+<p align="center">
+   <img src="https://github.com/bethsouza/Veeam/blob/main/veeam-vanguard-logo.png">
+</p>
+
+
+
 O Veeam Vanguard é um programa de reconhecimento da Veeam. Quem participa desse grupo está engajado em compartilhar conhecimento, criando conteúdo sobre os produtos da Veeam, ajudando a comunidade através dos fóruns e grupos de discussão. </br>
 
 Quem são os Veeam Vanguards no Brasil atualmetne:
