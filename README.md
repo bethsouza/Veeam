@@ -7,7 +7,9 @@
 
 **Grupo de discussão no Telegram** (https://t.me/VeeamBR) </br>
 
-Blogs de especialistas com vários tutoriais e dicas essenciais com as melhores práticas para backup e recuperação de dados:
+## Blogs de especialistas </br>
+
+Vários tutoriais e dicas essenciais sobre melhores práticas para backup e recuperação de dados
 
 ### No Brasil </br>
 
