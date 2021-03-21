@@ -29,7 +29,7 @@ Alguns recursos que você encontra neste portal:
 **Veeam Legends** - Ganhe reconhecimento através de suas contribuições nas comunidades (https://bityli.com/xMEme)</br></br>
 
 Precisa de suporte técnico, os fóruns podem ajudar (https://forums.veeam.com/)</br></br>
-*Fonte de referência: (https://community.veeam.com/general-information-58/welcome-to-the-veeam-community-resource-hub-67) </br></br>
+*Fonte de referência: (https://community.veeam.com/general-information-58/welcome-to-the-veeam-community-resource-hub-67)* </br></br>
 
 ### Veeam Vanguard </br>
 
