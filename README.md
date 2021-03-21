@@ -45,7 +45,7 @@ Paulo Sant'anna (https://www.linkedin.com/in/paulosantanna/) </br>
 <b> ** Veeam Legends ** </br>
 
 <p align="center">
-   <img src="https://github.com/bethsouza/Veeam/blob/main/legends.PNG">
+   <img src="https://github.com/bethsouza/Veeam/blob/main/legends2.png">
 </p>
 
 O Veeam Legends 
