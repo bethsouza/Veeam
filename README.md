@@ -44,6 +44,10 @@ Paulo Sant'anna (https://www.linkedin.com/in/paulosantanna/) </br>
 
 <b> ** Veeam Legends ** </br>
 
+<p align="center">
+   <img src="https://github.com/bethsouza/Veeam/blob/main/veeam_legends_badge-300x188.jpg">
+</p>
+
 O Veeam Legends 
 
 
