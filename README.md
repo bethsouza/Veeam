@@ -7,11 +7,11 @@
 
 <p align="center"><b>  Site da Veeam em português https://www.veeam.com/br/  </br>
 
-<b> ** Grupo de discussão no Telegram ** t.me/VeeamBR </br>
+<b> Grupo de discussão no Telegram  t.me/VeeamBR </br>
 
 Blogs de especialistas com vários tutoriais e dicas essenciais com as melhores práticas para backup e recuperação de dados:
 
-<b> ** No Brasil ** </br>
+<b> No Brasil </br>
 
 Paulo Sant'anna (https://paulosantanna.com/) </br>
 Joaquim Santos (https://explainit.com.br/) </br>
@@ -20,7 +20,7 @@ Wesley Martins (https://itproland.com.br/) </br>
 Rafael Caldas (https://digitalmonkey.tech/author/rafaelcaldas/) </br>
 
 
-<b> ** Veeam Community Hub ** </br>
+<b> Veeam Community Hub </br>
 
 Este é um portal onde a comunidade pode compartilhar experiências, aumentar sua rede de contatos e ser reconhecido por suas contribuições para a comunidade.
 Alguns recursos que você encontra neste portal:
@@ -33,7 +33,7 @@ Veeam Legends: Ganhe reconhecimento através de suas contribuições nas comunid
 Precisa de suporte técnico, os fóruns podem ajudar (https://forums.veeam.com/)</br></br>
 Fonte de referência: (https://community.veeam.com/general-information-58/welcome-to-the-veeam-community-resource-hub-67) </br></br>
 
-<b> ** Veeam Vanguard ** </br>
+<b> Veeam Vanguard </br>
 
 <p align="center">
    <img src="https://github.com/bethsouza/Veeam/blob/main/veeam-vanguard-logo.png">
