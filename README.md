@@ -7,7 +7,7 @@
 
 **Grupo de discussão no Telegram** (https://t.me/VeeamBR) </br>
 
-**Canal no Youtube** (https://t.me/VeeamBR) </br> </br>
+**Canal no Youtube** (https://www.youtube.com/channel/UC5YkxcYCG5b-fCcvHniW_ag) </br> </br>
 
 ## Blogs de especialistas</br>
 
