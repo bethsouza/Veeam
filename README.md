@@ -20,7 +20,7 @@ Vários tutoriais e dicas essenciais sobre melhores práticas para backup e recu
    Mateus Wolff (https://penseemti.com.br/) </br>
    Wesley Martins (https://itproland.com.br/) </br>
 
-### Veeam Community Hub </br>
+### Veeam Community Resource Hub </br>
 
    Este é um portal onde a comunidade pode compartilhar experiências, aumentar sua rede de contatos e ser reconhecido por suas contribuições para a comunidade.
    Alguns recursos que você encontra neste portal:
