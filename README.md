@@ -14,6 +14,7 @@
 Vários tutoriais e dicas essenciais sobre melhores práticas para backup e recuperação de dados
 
    ### No Brasil</br>
+   Se você mais algum blog, manda pra mim que eu adiciono aqui. 
 
    Paulo Sant'anna (https://paulosantanna.com/) </br>
    Joaquim Santos (https://explainit.com.br/) </br>
@@ -44,7 +45,6 @@ Vários tutoriais e dicas essenciais sobre melhores práticas para backup e recu
 
    Elizabeth Souza (https://www.linkedin.com/in/ecdesouza/) </br>
    Joaquim Santos (https://www.linkedin.com/in/joaquimhilariosantos/ </br>
-   Mateus Wolff (https://www.linkedin.com/in/mateuswolff/) </br>
    Paulo Sant'anna (https://www.linkedin.com/in/paulosantanna/) </br>
 
 
