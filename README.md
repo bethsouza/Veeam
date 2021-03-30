@@ -14,7 +14,7 @@
 Vários tutoriais e dicas essenciais sobre melhores práticas para backup e recuperação de dados
 
    ### No Brasil</br>
-   Se você mais algum blog, manda pra mim que eu adiciono aqui. 
+   Se você conhece mais algum blog, manda pra mim que eu adiciono aqui. 
 
    Paulo Sant'anna (https://paulosantanna.com/) </br>
    Joaquim Santos (https://explainit.com.br/) </br>
