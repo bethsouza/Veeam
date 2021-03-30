@@ -30,8 +30,7 @@ Vários tutoriais e dicas essenciais sobre melhores práticas para backup e recu
    **Recursos da comunidade** - Contribua com a comunidade através do seu conhecimento (https://bityli.com/5w5WK)</br></br>
    **Universidade Veeam** - Treinamentos sob demanda gratuitos (https://bityli.com/VEuew)</br></br>
    **Veeam Legends** - Ganhe reconhecimento através de suas contribuições nas comunidades (https://bityli.com/xMEme)</br></br>
-   
-   Aqui no Brasil, o Mateus Wolff é Veeam Legends</br>
+      Aqui no Brasil, o Mateus Wolff é Veeam Legends</br>
    
    Agora, se você precisa de suporte técnico, os fóruns ajudam muito (https://forums.veeam.com/)</br></br>
    *Fonte de referência: (https://community.veeam.com/general-information-58/welcome-to-the-veeam-community-resource-hub-67)* </br></br>
