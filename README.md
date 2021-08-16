@@ -33,7 +33,9 @@ Vários tutoriais e dicas essenciais sobre melhores práticas para backup e recu
       Aqui no Brasil, o Mateus Wolff é Veeam Legends</br>
    
    Agora, se você precisa de suporte técnico, os fóruns ajudam muito (https://forums.veeam.com/)</br></br>
-   *Fonte de referência: (https://community.veeam.com/general-information-58/welcome-to-the-veeam-community-resource-hub-67)* </br></br>
+   *Fonte de referência: (https://community.veeam.com/general-information-58/welcome-to-the-veeam-community-resource-hub-67)* </br>
+   
+   Exames práticos você encontra aqui https://t.co/mMKDo6f7lO?amp=1 no blog do RASMUS HASLUND (https://twitter.com/haslund) </br>
 
 ### Veeam Vanguard </br>
 
